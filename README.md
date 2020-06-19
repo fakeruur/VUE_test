@@ -1,2 +1,4 @@
 # VUE_test
-一些练习vue
+- src·vue的一些基本用法
+- 一个app的底栏
+
